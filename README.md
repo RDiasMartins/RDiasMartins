@@ -1,4 +1,7 @@
-## Olá eu sou o Renan!
+## 🇧🇷 - Olá, eu sou o Renan! Meu objetivo é aprimorar meus conhecimentos na área da computação visando meu aperfeiçoamento pessoal como desenvolvedor full-stack.
+
+## 🇺🇸 - Hi, I'm Renan! My goal is to improve my knowledge in the field of computing aiming my personal improvement as a full-stack developer. 
+
 <div align="center">
   <a href="https://github.com/RDiasMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDiasMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,7 +24,8 @@
  
 <div> 
  <a href="https://www.linkedin.com/in/RDiasMartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:renandias2204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/_rdm2204/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/oirlandess" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renandias2204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://steamcommunity.com/id/z3dx"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
